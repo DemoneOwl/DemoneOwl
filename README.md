@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DemoneOwl
 - 👀 I’m interested in coding in general and creating new things !
-- 🌱 I’m currently learning Java, Python, Prolog, OS coding, Advanced Database, Web protocol, Web architecture, AI, software engineering 
-- 💞️ I’m looking to collaborate on all type of projects ! 
+- 🌱 I’m currently learning Java, Python, Prolog, OS coding, Advanced Database, Web protocol, Web architecture, AI and studying networking and telecoms !
+- 🤗 I’m looking to collaborate on all type of projects ! 
 - 📫 How to reach me -> theophilustuihau@gmail.com
 
 <!---
